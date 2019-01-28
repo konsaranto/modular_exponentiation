@@ -76,6 +76,7 @@ while True:
     #print("result_list=" + str(result_list))
     #print("power_list=" + str(power_list) + "\n")
 
+#print the result
 result = result_list[0]
 if len(result_list) == 1:
     result = result % mod
