@@ -54,7 +54,7 @@ def calculate(exponent):
             two_power = i
     return result, two_power
 
-#repeat until
+#repeat until all powers of 2 have been calculated
 while True:
     #reset max_power
     max_power = 0
